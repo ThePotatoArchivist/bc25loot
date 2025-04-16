@@ -11,3 +11,4 @@ snapshot_mc:hammer
 basicweapons:iron_hammer
 6 10 festive_frenzy:frostflake_cannon
 festive_frenzy:sharpened_candy_cane
+12 24 extravaganza:golden_festive_coin
