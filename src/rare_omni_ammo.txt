@@ -1,0 +1,2 @@
+2 minecraft:echo_shard
+1 minecraft:nether_star

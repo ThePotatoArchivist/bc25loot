@@ -1,0 +1,5 @@
+6 minecraft:slime_ball
+2 minecraft:blaze_powder
+4 minecraft:honey_bottle
+6 minecraft:gunpowder
+1 minecraft:pumpkin

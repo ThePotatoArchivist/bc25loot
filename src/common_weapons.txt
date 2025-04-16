@@ -1,4 +1,4 @@
-minecraft:crossbow {"minecraft:enchantments": {"omnicrossbow:omni": 1}}
+minecraft:crossbow {"minecraft:enchantments": {"omnicrossbow:omni": 1, "omnicrossbow:multichambered": 3}}
 pierced:long_crossbow
 hibernalherbs:syrum_sword
 hibernalherbs:arkonium_sword
