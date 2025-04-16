@@ -1,5 +1,5 @@
-8 minecraft:spectral_arrow
-16 minecraft:arrow
-8 fletching-expanded:frost_arrow
-8 fletching-expanded:flame_arrow
-16 fletching-expanded:iron_arrow
+6 10 minecraft:spectral_arrow
+12 20 minecraft:arrow
+6 10 fletching-expanded:frost_arrow
+6 10 fletching-expanded:flame_arrow
+12 20 fletching-expanded:iron_arrow
