@@ -1,0 +1,8 @@
+5 9 farmersdelight:hamburger
+6 10 farmersdelight:fruit_salad
+3 7 farmersdelight:bacon_sandwich
+2 4 farmersdelight:dumplings
+2 4 farmersdelight:stuffed_potato
+3 5 farmersdelight:cabbage_rolls
+1 3 farmersdelight:salmon_roll
+3 6 farmersdelight:cod_roll

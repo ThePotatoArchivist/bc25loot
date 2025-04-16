@@ -1,0 +1,13 @@
+minecraft:crossbow {"minecraft:enchantments": {"omnicrossbow:omni": 1}}
+pierced:long_crossbow
+hibernalherbs:syrum_sword
+hibernalherbs:arkonium_sword
+cerulean:fuchsia_sword
+ubesdelight:rolling_pin_wood
+farmersdelight:skillet
+basicweapons:bronze_dagger
+basicweapons:bronze_quarterstaff
+snapshot_mc:hammer
+basicweapons:iron_hammer
+6 10 festive_frenzy:frostflake_cannon
+festive_frenzy:sharpened_candy_cane

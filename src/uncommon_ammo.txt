@@ -1,0 +1,5 @@
+6 10 fletching-expanded:echo_arrow
+2 4 fletching-expanded:homing_arrow
+6 10 fletching-expanded:phantom_arrow
+10 20 fletching-expanded:slime_arrow
+6 10 fletching-expanded:amethyst_arrow

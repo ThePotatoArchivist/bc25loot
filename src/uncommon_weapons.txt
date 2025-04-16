@@ -1,0 +1,11 @@
+pierced:harpoon_crossbow
+hibernalherbs:slowness_herbal_blend
+hibernalherbs:mining_fatigue_herbal_blend
+hibernalherbs:speed_herbal_blend
+hibernalherbs:night_vision_herbal_blend
+amarong:amarong_hammer
+basicweapons:diamond_hammer
+klaxon:steel_hammer
+taccorpstrinkets:quartzite_hammer
+pierced:harpoon
+basicweapons:netherite_club

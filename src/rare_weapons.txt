@@ -1,0 +1,6 @@
+lilium:discharge_cannon {"lilium:discharge_cannon_charge_level":1}
+affinity:azalea_bow
+oxide:pure_nail
+minecraft:leather_boots {"minecraft:attribute_modifiers": {"modifiers": [{"type": "necessities:max_jumps", "amount": 4, "operation": "add_value", "id": "minecraft:1744783545173", "slot": "feet"}]}}
+spirit_vector:spirit_vector
+soteria:soterian_lance
