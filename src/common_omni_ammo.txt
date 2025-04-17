@@ -1,5 +1,8 @@
 6 minecraft:slime_ball
 2 minecraft:blaze_powder
+4 minecraft:breeze_rod
 4 minecraft:honey_bottle
 6 minecraft:gunpowder
 1 minecraft:pumpkin
+1 minecraft:pufferfish
+2 minecraft:salmon_bucket
